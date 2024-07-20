@@ -3,6 +3,7 @@ loaderVersion = "[47,)"
 license = "MIT"
 issueTrackerURL = "${github_url}issues/"
 showAsResourcePack = false
+logoFile = "logo.png"
 
 [[mods]]
 modId = "spawn_chunk_radius"
