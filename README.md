@@ -1,3 +1,3 @@
 # spawnChunkRadius
 
-Backports the 1.20.5+ spawnChunkRadius gamerule to Forge 1.20.1.
+Backports the 1.20.5+ spawnChunkRadius [game rule](https://minecraft.wiki/w/Game_rule) to Forge 1.20.1.
