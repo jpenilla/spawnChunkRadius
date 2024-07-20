@@ -1,0 +1,28 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+license = "MIT"
+issueTrackerURL = "${github_url}issues/"
+showAsResourcePack = false
+
+[[mods]]
+modId = "spawn_chunk_radius"
+version = "${version}"
+displayName = "spawnChunkRadius"
+displayURL = "${github_url}"
+authors = "jmp"
+description = "${description}"
+displayTest = "IGNORE_ALL_VERSION"
+
+[[dependencies.spawn_chunk_radius]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.spawn_chunk_radius]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,1.20.5)"
+ordering = "NONE"
+side = "BOTH"
