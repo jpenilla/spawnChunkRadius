@@ -44,3 +44,7 @@ tasks.processResources {
     }
   }
 }
+
+tasks.compileJava {
+  options.release = 17
+}
